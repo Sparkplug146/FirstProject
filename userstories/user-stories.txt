@@ -1,0 +1,16 @@
+User Scenarios for Each Page
+
+First Page-Introduction
+As a visitor,
+I want to see an overview of the creators background,
+So that I can have an idea of what the creator likes to play.
+
+Second Page-Games
+As a viewer,
+I want to see what games the creator likes to play,
+So that I will understand what the creator enjoys about the games mentioned.
+
+Feedback Page
+As a viewer,
+I want to leave feedback and suggestions about the creators games,
+So that they could potentially know what other games they could play.
