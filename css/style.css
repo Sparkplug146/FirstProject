@@ -1,9 +1,8 @@
-.introduction{
-    background-color: green; 
-    text-align: center;
+.hero {
+  padding: 60px 20px;
+  text-align: center;
 }
 
-.intro-paragraph, .container{
-    background-color: blue;
-    text-align: center;
+.hero h1 {
+  font-size: 3rem;
 }
