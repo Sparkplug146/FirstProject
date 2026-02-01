@@ -1,3 +1,4 @@
+/*intro html of the website*/
 .hero {
   padding: 60px 20px;
   text-align: center;
@@ -48,4 +49,20 @@
 }
 .sidebar{
   background-color:black
+}
+
+/*games section of the website*/
+.game{
+  display: flex;
+  gap: 24px;
+  margin-bottom: 48px;
+  align-items: center
+}
+.game-text{
+  max-width: 600px;
+}
+.game img{
+  width: 300px;
+  height: auto;
+  border-radius: 12px;
 }
