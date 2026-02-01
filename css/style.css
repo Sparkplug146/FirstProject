@@ -35,7 +35,7 @@ body{
 .intro{
   flex: 1;
   padding: 40px;
-  background-color: #000000;
+  background-color: black;
 }
 .intro p, h2{
   color: white;
