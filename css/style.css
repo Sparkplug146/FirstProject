@@ -25,6 +25,8 @@
 .layout{
   display: flex;
   min-height: 100vh;
+  max-width: 1200px;
+  margin: 0;
 }
 
 .intro{
@@ -66,3 +68,12 @@
   height: auto;
   border-radius: 12px;
 }
+.game-two{
+  flex-direction: row-reverse
+}
+h2{
+  color: black;
+  text-align: center;
+}
+
+/*feedback section of the website*/
